@@ -1,4 +1,4 @@
 function jobDone() {
-        return true;
+        return false;
 }
 exports.main = jobDone;
